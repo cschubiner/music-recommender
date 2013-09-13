@@ -24,9 +24,15 @@ For example:
     Adam's Song *by* Blink 182
     All In *by* Lifehouse
 
+Install the required ruby gems:
+
+    gem install rest-client
+    gem install json
+
 Then run the script:
     
     ruby musicRecommender.rb
+
 
 ###Sample output
     *** Top 40 Recommended Songs ***
