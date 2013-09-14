@@ -5,7 +5,7 @@ Recommends the best songs for you based on a **list** of songs you input.
 
 ###Instructions
 
-It's easy to use!
+Follow these steps to get Music Recommender running.
 
 Clone the repository
 
@@ -78,4 +78,4 @@ Then run the script:
     40. All I Wanna Do by Sheryl Crow	 Score: 11.47
     
 ###Additional Notes
-The score is gotten from the matching score Last.fm gives to each song. It is calculating by summing the scores of each matched song for every song you inputted together.
+The score is gotten from the matching score Last.fm gives to each song. It is calculated by summing together the scores of each matched song for every song you inputted.
